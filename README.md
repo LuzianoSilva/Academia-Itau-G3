@@ -13,7 +13,7 @@ b Projeto De Códigos Python - e C
 
 ###Objetivo:
 
-Criar um projeto de *Python* e *C* com algoritmos resolvidos, e futuros algoritmos, nas linguagens nas quais desenvolvo.
+Criar um projeto de *Python* e *C* com algoritmos resolvidos, e futuros algoritmos, nas linguagens as quais desenvolvo.
 
 ### Ferramentas:
 
